@@ -6,6 +6,7 @@
 
 <sup>1</sup>EPFL &nbsp;&nbsp; <sup>2</sup>University of Maryland &nbsp;&nbsp; <sup>3</sup>KAIST
 
+[![arXiv](https://img.shields.io/badge/arXiv-2611.33896-b31b1b.svg)](https://arxiv.org/abs/2611.33896)
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.11-3776AB.svg)](https://www.python.org/)
 [![HF Models](https://img.shields.io/badge/%F0%9F%A4%97-Drafters-yellow)](https://huggingface.co/MisakiTaro0414/floodgates)
@@ -82,10 +83,14 @@ Environment variables of the scripts; the defaults are the paper's settings.
 ## Citation
 
 ```bibtex
-@misc{suleymanzade2026looped,
+@misc{suleymanzade2026loopedmodelsfastmultitoken,
   title={Looped Models are Fast Multi-Token Predictors},
-  author={Suleymanzade, Ayhan and McLeish, Sean and Kim, Sehoon and Kim, Jinwoo and Bosselut, Antoine},
-  year={2026}
+  author={Ayhan Suleymanzade and Sean McLeish and Sehoon Kim and Jinwoo Kim and Antoine Bosselut},
+  year={2026},
+  eprint={2611.33896},
+  archivePrefix={arXiv},
+  primaryClass={cs.LG},
+  url={https://arxiv.org/abs/2611.33896},
 }
 ```
 
